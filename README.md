@@ -1,3 +1,3 @@
-# webfolder syntra starter-kit
+# DocApp
 
 dit is onze project voor PHP
